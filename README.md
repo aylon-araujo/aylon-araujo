@@ -3,8 +3,6 @@
 Web Developer and Technology Enthusiast <img align="center" height="30" width="40" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif />
 
 
-![Snake animation](https://github.com/GabrielLSobreira/GabrielLSobreira/blob/output/github-contribution-grid-snake.svg)
-  
 ## Stacks
 <div style="display: inline_block"><br>
   <img align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
