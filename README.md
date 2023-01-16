@@ -5,8 +5,7 @@ Web Developer and Technology Enthusiast <img align="center" height="30" width="4
 
 ![Snake animation](https://github.com/GabrielLSobreira/GabrielLSobreira/blob/output/github-contribution-grid-snake.svg)
   
-## 
-
+## Stacks
 <div style="display: inline_block"><br>
   <img align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
