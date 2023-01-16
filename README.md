@@ -4,10 +4,12 @@ Web Developer and Technology Enthusiast <img align="center" height="30" width="4
 
 <div style="display: flex">
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aylon-araujo&&show_icons=true&theme=midnight-purple"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aylon-araujo&layout=default&card_width=700&langs_count=16&theme=midnight-purple"/>
 </div>
 
 ## Stacks
+<div style="display: block">
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aylon-araujo&layout=default&card_width=825&langs_count=16&theme=midnight-purple"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
