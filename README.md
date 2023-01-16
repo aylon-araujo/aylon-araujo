@@ -2,6 +2,7 @@
 
 Web Developer and Technology Enthusiast <img align="center" height="30" width="40" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif />
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/aylon-araujo/aylon-araujo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aylon-araujo/aylon-araujo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## Stacks
 <div style="display: inline_block"><br>
