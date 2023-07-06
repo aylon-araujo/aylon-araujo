@@ -3,7 +3,7 @@
 Web Developer and Technology Enthusiast <img align="center" height="30" width="40" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif />
 
 <div style="display: flex">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aylon-araujo&show_icons=true&theme=midnight-purple"/>
+  <img width="420em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aylon-araujo&show_icons=true&theme=midnight-purple"/>
 </div>
 
 ## Stacks
