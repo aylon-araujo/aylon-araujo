@@ -3,12 +3,12 @@
 Web Developer and Technology Enthusiast <img align="center" height="30" width="40" src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif />
 
 <div style="display: flex">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aylon-araujo&&show_icons=true&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aylon-araujo&show_icons=true&theme=midnight-purple"/>
 </div>
 
 ## Stacks
 <div style="display: block">
-    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aylon-araujo&layout=default&card_width=825&langs_count=16&theme=midnight-purple"/>
+    <img height="400em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aylon-araujo&show_icons=true&theme=midnight-purple" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
